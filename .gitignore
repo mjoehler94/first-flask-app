@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+picke_objects/
+*.ipynb
+*.sqlite
+
